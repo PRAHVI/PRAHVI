@@ -1,0 +1,9 @@
+[submodule "PRAHVI-TextLineExtraction"]
+	path = PRAHVI-TextLineExtraction
+	url = https://github.com/PRAHVI/PRAHVI-TextLineExtraction
+[submodule "PRAVI-Preprocessing"]
+	path = PRAVI-Preprocessing
+	url = https://github.com/PRAHVI/PRAVI-Preprocessing
+[submodule "PRAHVI-Bridge"]
+	path = PRAHVI-Bridge
+	url = https://github.com/PRAHVI/PRAHVI-Bridge

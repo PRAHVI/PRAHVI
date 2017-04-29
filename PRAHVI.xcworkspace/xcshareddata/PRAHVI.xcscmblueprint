@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BB392AAF194668546A5668557D7DEF1A0AFC3114",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BB392AAF194668546A5668557D7DEF1A0AFC3114" : 9223372036854775807,
+    "823F6E2DD64E5364CA999DF4EDA8F62A71ACB773" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DFEB3759-45D6-4047-BB81-9C7F5DCDFCB2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BB392AAF194668546A5668557D7DEF1A0AFC3114" : "PRAHVI\/",
+    "823F6E2DD64E5364CA999DF4EDA8F62A71ACB773" : "PRAHVI\/PRAHVI-Bridge\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PRAHVI",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PRAHVI.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/PRAHVI\/PRAHVI-Bridge",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "823F6E2DD64E5364CA999DF4EDA8F62A71ACB773"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/PRAHVI\/PRAHVI.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BB392AAF194668546A5668557D7DEF1A0AFC3114"
+    }
+  ]
+}

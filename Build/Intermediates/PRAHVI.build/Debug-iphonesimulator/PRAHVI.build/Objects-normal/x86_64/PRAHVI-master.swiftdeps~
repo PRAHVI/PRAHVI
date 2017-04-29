@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "70b6966dc044c41c4e366288c9fb7036"
+build_time: [546751353, 310565000]
+inputs:
+  "/Users/blaketsuzaki/Development/PRAHVI/PRAHVI/PRAHVI/PRAHVI/ViewController.swift": [546751350, 0]
+  "/Users/blaketsuzaki/Development/PRAHVI/PRAHVI/PRAHVI/PRAHVI/AppDelegate.swift": [546751350, 0]
